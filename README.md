@@ -78,7 +78,7 @@ We welcome contributions to enhance this project. Here's how you can contribute:
 
 For questions or feedback:  
 
-- **Developer**: [Shaurya01836](https://github.com/Shaurya01836)  
+- **Developer**: [Dhruv](https://github.com/dhruv457457)  
  
 
 ---
